@@ -5,15 +5,15 @@ import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;
 import static co.com.choucair.certification.newexperiencie.userinterface.ModuloUsuarioPage.MSJ_EXPECTED;
 
-public class VerificarInicioDeSesion implements Question<Boolean> {
+public class VerificarLaCuenta implements Question<Boolean> {
 
     private String strEsperado;
 
-    public VerificarInicioDeSesion(String strEsperado){
+    public VerificarLaCuenta(String strEsperado){
         this.strEsperado = strEsperado;
     }
 
-    public static VerificarInicioDeSesion Usuario(String msjEsperado) {return new VerificarInicioDeSesion(msjEsperado);}
+    public static VerificarLaCuenta Usuario(String msjEsperado) {return new VerificarLaCuenta(msjEsperado);}
 
     @Override
     public Boolean answeredBy(Actor actor) {
