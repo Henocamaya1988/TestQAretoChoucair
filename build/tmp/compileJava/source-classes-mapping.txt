@@ -1,0 +1,32 @@
+co/com/choucair/certification/newexperiencie/questions/ValidarMensaje.java
+ co.com.choucair.certification.newexperiencie.questions.ValidarMensaje
+co/com/choucair/certification/newexperiencie/tasks/CrearUsuario.java
+ co.com.choucair.certification.newexperiencie.tasks.CrearUsuario
+co/com/choucair/certification/newexperiencie/tasks/DiligenciarFormulario.java
+ co.com.choucair.certification.newexperiencie.tasks.DiligenciarFormulario
+co/com/choucair/certification/newexperiencie/tasks/OpcionCrearCuenta.java
+ co.com.choucair.certification.newexperiencie.tasks.OpcionCrearCuenta
+co/com/choucair/certification/newexperiencie/tasks/OpcionRegistrar.java
+ co.com.choucair.certification.newexperiencie.tasks.OpcionRegistrar
+co/com/choucair/certification/newexperiencie/tasks/AbrirPaginaPrincipal.java
+ co.com.choucair.certification.newexperiencie.tasks.AbrirPaginaPrincipal
+co/com/choucair/certification/newexperiencie/userinterface/PaginaPrincipalAutomationPractice.java
+ co.com.choucair.certification.newexperiencie.userinterface.PaginaPrincipalAutomationPractice
+co/com/choucair/certification/newexperiencie/tasks/IngresarEmail.java
+ co.com.choucair.certification.newexperiencie.tasks.IngresarEmail
+co/com/choucair/certification/newexperiencie/model/User.java
+ co.com.choucair.certification.newexperiencie.model.User
+co/com/choucair/certification/newexperiencie/tasks/AbrePagina.java
+ co.com.choucair.certification.newexperiencie.tasks.AbrePagina
+co/com/choucair/certification/newexperiencie/userinterface/ModuloUsuarioPage.java
+ co.com.choucair.certification.newexperiencie.userinterface.ModuloUsuarioPage
+co/com/choucair/certification/newexperiencie/questions/VerificarInicioDeSesion.java
+ co.com.choucair.certification.newexperiencie.questions.VerificarInicioDeSesion
+co/com/choucair/certification/newexperiencie/tasks/AbrirModuloregistro.java
+ co.com.choucair.certification.newexperiencie.tasks.AbrirModuloregistro
+co/com/choucair/certification/newexperiencie/util/ProvideActor.java
+ co.com.choucair.certification.newexperiencie.util.ProvideActor
+co/com/choucair/certification/newexperiencie/userinterface/LoginPage.java
+ co.com.choucair.certification.newexperiencie.userinterface.LoginPage
+co/com/choucair/certification/newexperiencie/tasks/IniciarSesion.java
+ co.com.choucair.certification.newexperiencie.tasks.IniciarSesion
